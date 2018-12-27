@@ -1,3 +1,7 @@
+# Google App Script Documentation
+* [SpreadSheet](https://developers.google.com/apps-script/reference/spreadsheet/)
+* [Doc](https://developers.google.com/apps-script/reference/document/)
+
 # Google Apps Script Cheat Sheet #
 
 [General](#general-1)
